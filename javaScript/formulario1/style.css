@@ -1,0 +1,9 @@
+#formulario {
+    width: 100px;
+    height: 100px;
+}
+
+input [type="text"] {
+    padding: 1px;
+    margin-right: -5px;
+}
